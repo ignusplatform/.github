@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/aljndaro/aljndaro/main/urmom.svg" alt="ratioooo" />
- <img src="https://skillicons.dev/icons?i=js,gcp,aws,nodejs,cloudflare,express,html,css,vscode,tailwind,mongodb,firebase,twitter,typescript,c#" />
+ <img src="https://skillicons.dev/icons?i=js,gcp,aws,nodejs,cloudflare,express,astro,html,css,vscode,tailwind,mongodb,firebase,twitter,typescript" />
 </h1>
-hello, we are ignus! we're the home of hiring on the roblox platform with our advanced technologies.
+<center> Hello and welcome! We are Ignus, a top-tier platform that specializes in facilitating the hiring process for Roblox. Our cutting-edge technologies enable a seamless and highly efficient experience for both employers and candidates alike. With our help, you can rest assured that your hiring needs will be met with the utmost professionalism and ease.. </center>
 
 contact our team on our [website](https://ignusapp.com)
